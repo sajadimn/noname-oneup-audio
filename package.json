@@ -1,0 +1,38 @@
+{
+  "name": "noname-oneup-audio",
+  "displayName": "Audio",
+  "version": "1.0.0",
+  "unity": "2021.3",
+  "license": "Copyright (c) Noname.OneUp All rights reserved. ",
+  "type": "Tools",
+  "category": "Utilities",
+  "description": "This package contains the audio manager with categories, mixer control and pooled audio sources.",
+  "dependencies": {
+    "com.unity.modules.audio": "1.0.0"
+  },
+  "gitDependencies": {
+    "noname-oneup-singleton": "https://github.com/sajadimn/noname-oneup-singleton.git",
+    "noname-oneup-dotween": "https://github.com/sajadimn/noname-oneup-dotween.git"
+  },
+  "samples": [],
+  "hideInEditor": true,
+  "keywords": [
+    "Noname",
+    "OneUp",
+    "Audio",
+    "AudioManager",
+    "Mixer"
+  ],
+  "author": {
+    "name": "OneUp",
+    "email": "imani.sajad92@gmail.com",
+    "url": "https://github.com/sajadimn"
+  },
+  "repository": {
+    "url": "https://github.com/sajadimn/noname-oneup-audio.git",
+    "type": "git"
+  },
+  "publishConfig": {
+    "registry": "https://github.com/sajadimn/noname-oneup-audio"
+  }
+}

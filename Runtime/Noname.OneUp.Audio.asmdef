@@ -1,0 +1,22 @@
+{
+    "name": "Noname.OneUp.Audio",
+    "rootNamespace": "",
+    "references": [
+        "Noname.OneUp.Singleton"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [
+        {
+            "name": "noname-oneup-dotween",
+            "expression": "",
+            "define": "ONEUP_DOTWEEN"
+        }
+    ],
+    "noEngineReferences": false
+}
